@@ -2,7 +2,7 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🔭 &nbsp; I’m currently learning Flask web app development.
+- 🔭 &nbsp; I’m currently learning React development.
 - 👀 &nbsp; Love exploring elegant "hacks" and developing software solutions.
 - 🎓 &nbsp; Studying applied mathematics, statistics and computer programming.
 - 🌱 &nbsp; Enthusiastic about machine learning and natural language processing.
@@ -13,7 +13,7 @@
 
 - 💻 &nbsp;
   ![Python](http://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=ffffff)
-  ![Java](http://img.shields.io/badge/-Java-5B4638?style=flat&logo=java&logoColor=ffffff)
+  ![Java](https://img.shields.io/badge/-JavaScript-f7df1c?style=flat&logo=java&logoColor=000000)
   ![R (Statistics)](https://img.shields.io/badge/-R-878787?style=flat&logo=R&logoColor=276DC3)
   ![Maple](https://img.shields.io/badge/-Maple-333333?style=flat&logo=maple)
 - ⚙️ &nbsp;
