@@ -1,43 +1,29 @@
 # Hey! I'm TJ - aka tjoab :wave:
 
-<h3> 👨🏻‍💻 &nbsp;About Me </h3>
+ <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🔭 &nbsp; I’m currently learning React development.
-- 👀 &nbsp; Love exploring elegant "hacks" and developing software solutions.
-- 🎓 &nbsp; Studying applied mathematics, statistics and computer programming.
-- 🌱 &nbsp; Enthusiastic about machine learning and natural language processing.
-- <img width="20px" src="https://icons.iconarchive.com/icons/cjdowner/cryptocurrency-flat/1024/Ethereum-ETH-icon.png" /> &nbsp;  Diving into crypto technologies and NFTs. Big fan of zero knowledge rollups on Ethereum.
-- ☕ &nbsp; I like coffee. An expresso a day...
-<br>
-<h3> 🛠 &nbsp;Tech Stack</h3>
+I’m a data scientist and full-time curious human. I spend most of my days turning messy data into meaning, building cool ML apps, and occasionally yelling at my code like it’s a bad roommate (we always make up though).
 
-- 💻 &nbsp;
-  ![Python](http://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=ffffff)
-  ![Java](https://img.shields.io/badge/-JavaScript-f7df1c?style=flat&logo=java&logoColor=000000)
-  ![R (Statistics)](https://img.shields.io/badge/-R-878787?style=flat&logo=R&logoColor=276DC3)
-  ![Maple](https://img.shields.io/badge/-Maple-333333?style=flat&logo=maple)
-- ⚙️ &nbsp;
-  ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat&logo=git&logoColor=%23ffffff)
-  ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
-  ![Markdown](https://img.shields.io/badge/-Markdown-000000?style=flat&logo=markdown)
-  ![LaTeX](https://img.shields.io/badge/-LaTeX-0516379?style=flat&logo=latex)
-- 🔧 &nbsp;
-  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-003D8F?style=flat&logo=visual-studio-code&logoColor=007ACC)
-  ![RStudio](https://img.shields.io/badge/-RStudio-00597C?style=flat&logo=rstudio)
-- 🖥 &nbsp;
-  ![Photoshop](https://img.shields.io/badge/-Photoshop-0F2551?style=flat&logo=adobe-photoshop)
-  ![Illustrator](https://img.shields.io/badge/-Illustrator-602D09?style=flat&logo=adobe-illustrator)
-  ![After Effects](https://img.shields.io/badge/-After_Effects-3B155F?style=flat&logo=adobe-after-effects)
-  ![Premiere Pro](https://img.shields.io/badge/-Premiere_Pro-4D0B44?style=flat&logo=adobe-premiere-pro&logoColor=DD54CA)
-  
+🌍 Tools of the trade:
+- Python (my forever Valentine)
+- PyTorch, scikit-learn, Hugging Face, XGBoost, PySpark, LangChain
+- SQL, Postgres, SQLite
+- And a sprinkle of React and JavaScript when needed
 
-<br/>
-
-<h3> 🤝🏻 &nbsp;Connect with Me </h3>
+I also ship side projects that let me play with math, code, and creativity all at once, like:
+- ✍️ A handwritten math-to-LaTeX translator (because typing equations is too mainstream)
+- 🤖 A job finding bot that actually finds what you're looking for
+- 🎯 A Wordle assistant powered by entropy (I may have taken Wordle too seriously)
 
 
-- <a href="https://tjoab.com/" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Personal_Site_And_Portfolio-DF1F1F?style=flat&logo=google-chrome&logoColor=ffffff"></a>
-- <a href="https://www.linkedin.com/in/tj-ayoub" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=ffffff"></a>
-- <a href="https://www.instagram.com/tjoab/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-c0007a?style=flat&logo=instagram&logoColor=ffffff"></a>
-- <a href="mailto:tj.ayoub@gmail.com" target="_blank"><img alt="Email" src="https://img.shields.io/badge/Email-34a853?style=flat&logo=gmail&logoColor=ffffff"></a>
+When I’m not debugging something that *should* work, you’ll probably find me:
+- Writing on my blog (tjoab.com) about whatever ML rabbit hole I fell into
+- Teaching myself random things (currently: **reccomender systems**)
+- Exploring elegant proofs or sketching out ideas I’ll probably over-engineer later
 
+# 
+<h3>📬 Let’s connect</h3>
+Always down to chat about ML, data, fun side projects, or which metric truly deserves your love. Or just drop by and say hey! :wave:
+
+- 🔗 [LinkedIn](https://www.linkedin.com/in/tj-ayoub/)  
+- 📝 [Blog](https://www.tjoab.com)
